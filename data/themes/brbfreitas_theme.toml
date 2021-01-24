@@ -1,0 +1,26 @@
+# Theme metadata
+name = "brbfreitas_theme"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+primary = "#000000"
+
+# Menu
+menu_primary = "#fcfcfc"
+menu_text = "#525252"
+menu_text_active = "#000000"
+menu_title = "#000000"
+
+# Backgrounds
+background = "#fcfcfc"
+home_section_odd = "#fcfcfc"
+home_section_even = "#fcfcfc"
+
+dark_background = ""
+dark_home_section_odd = ""
+dark_home_section_even = ""
+
+link = ""
+link_hover = ""
