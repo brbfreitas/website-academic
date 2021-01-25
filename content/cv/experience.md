@@ -46,7 +46,7 @@ date_format= "Jan 2006"
     location= "Montpellier, France"
     date_start= '2020-01-06'
     date_end= '2020-10-29'
-    description= '''"The use of automatic recorders to obtain vocalizations data in difficult terrains: the case of the Príncipe Scops owl", supervised by Claire Doutrelant, Martim Melo and Yves Bas'''
+    description= '''"The use of automatic recorders to obtain vocalizations data in difficult terrains: the case of the Príncipe Scops owl", supervised by Claire Doutrelant, Martim Melo and Yves Bas; "Communication characteristics of the sociable weaver (<i>Philetairus socius</i>) within the nest", supervised by Pietro D’Amelio and Claire Doutrelant'''
   
   [[experience]]
     title= 'Intern'

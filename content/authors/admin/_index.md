@@ -11,7 +11,7 @@ role: I am an Evolutionary Biology PhD fellow working at the National Museum of 
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Get to know me !
-  url: http://localhost:1313/about/
+  url: http://www.freitasbarbara.com/about/
 
 # Short bio (displayed in user profile at end of posts)
 #bio:

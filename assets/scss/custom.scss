@@ -1,3 +1,4 @@
+
 .navbar {
     height: 70px;
     background: $sta-menu-primary;
@@ -13,8 +14,10 @@
     padding: 0 1rem;
 }
 
+/* awards and experience cards */
     .card-simple {
         background: #fff;
+        font-size: 1rem;
       /* this is the part that takes out the shadow */
         box-shadow: none;
         border: 0px solid rgba(0,0,0,0);
@@ -24,6 +27,7 @@
       }
       
     .card {
+        font-size: 1rem;
         margin-bottom: 1.5rem;
         overflow: hidden;
         text-overflow: ellipsis;
@@ -42,3 +46,17 @@
         font-size: 0.75rem;
         box-shadow: none;
       }
+//add images to experience cards
+.flex-w-experience-image-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.flex-w-experience-text {
+  display: flex;
+  flex-direction: column;
+}
+.experience-image {
+  max-width: 60px;
+  margin-right: 10px;
+}
