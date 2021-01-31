@@ -10,7 +10,7 @@ active: true
 headless: false
 
 # Order that this section appears on the page.
-weight: 40
+weight: 80
 
 # Note: `&shy;` ('Accomplish&shy;ments') is used to add a 'soft' hyphen in a long heading.
 title: 'Grants & Scholarships'

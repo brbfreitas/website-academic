@@ -6,7 +6,7 @@ title: Bárbara Freitas
 superuser: true
 
 # Role/position/tagline
-role: I am an Evolutionary Biology PhD fellow working at the National Museum of Natural Sciences in Madrid and at the Evolution & Biological Diversity Laboratory in Toulouse.
+role: I am a PhD fellow working on the role of song in speciation processes of island birds at the National Museum of Natural Sciences in Madrid and at the Evolution & Biological Diversity Laboratory in Toulouse. 
 
 # Organizations/Affiliations to show in About widget
 organizations:
