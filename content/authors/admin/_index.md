@@ -37,13 +37,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-- icon: ciencia-vitae
-  icon_pack: ai
-  link: https://www.cienciavitae.pt//en/B11E-528F-0071
-
-- icon: researchgate
-  icon_pack: ai
-  link: https://www.researchgate.net/profile/Barbara_Freitas13
+- icon: envelope
+  icon_pack: fas
+  link: mailto:barbarabfreitas6@gmail.com
 
 - icon: linkedin
   icon_pack: fab
@@ -53,9 +49,17 @@ social:
   icon_pack: ai
   link: https://orcid.org/0000-0001-6020-6236
 
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Barbara_Freitas13
+
 - icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: ai
   link: https://scholar.google.com/citations?user=h9Op3tMAAAAJ&hl=en
+
+- icon: ciencia-vitae
+  icon_pack: ai
+  link: https://www.cienciavitae.pt//en/B11E-528F-0071
 
 - icon: osf
   icon_pack: ai
