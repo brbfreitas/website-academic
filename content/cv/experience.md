@@ -27,11 +27,9 @@ date_format= "Jan 2006"
 [[experience]]
     title= "PhD Student"
     logo= "/logos/edb.jpg"
-    company= """- [National Museum of Natural Sciences](https://www.mncn.csic.es/es)
-      
-    Autonomous University of Madrid
+    company= """- [National Museum of Natural Sciences (MNCN-CSIC)](https://www.mncn.csic.es/es)
     
-- [Laboratory of Evolution and Biological Diversity](https://edb.cnrs.fr/)"""
+- [Laboratory of Evolution and Biological Diversity (EDB, Université Toulouse-CNRS)](https://edb.cnrs.fr/)"""
     company_url= ''
     location= "Madrid, Spain | Toulouse, France"
     date_start= '2021-01-01'

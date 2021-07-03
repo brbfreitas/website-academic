@@ -29,7 +29,7 @@ subtitle = ""
   gradient_end = ""
   
   # Background image.
-  image = "cv.jpg"  # Name of image in `static/media/`.
+  image = "cv2.jpg"  # Name of image in `static/media/`.
   #image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
   image_size = "cover"
   # image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
