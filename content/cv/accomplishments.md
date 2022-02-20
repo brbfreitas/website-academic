@@ -13,7 +13,7 @@ headless: false
 weight: 80
 
 # Note: `&shy;` ('Accomplish&shy;ments') is used to add a 'soft' hyphen in a long heading.
-title: 'Grants & Scholarships'
+title: 'Grants, Scholarships & Awards'
 subtitle:
 
 # Date format
@@ -26,6 +26,30 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
+- certificate_url: 
+  date_end: ""
+  date_start: "2022-02-21"
+  description: ""
+  organization: Evidence Synthesis and Meta-Analysis in R Conference (ESMARConf)
+  organization_url: https://esmarconf.github.io/
+  title: Bursary to support attendance at ESMARConf2022
+  url: ""
+- certificate_url: 
+  date_end: ""
+  date_start: "2022-02-02"
+  description: ""
+  organization: Sociedad Española de Biología Evolutiva (SESBE, Spain)
+  organization_url: https://sesbe.org/
+  title: 2nd Best Poster Award and Sponsorship of Attendance at the VIII SESBE Conference
+  url: ""
+- certificate_url: 
+  date_end: ""
+  date_start: "2021-10-01"
+  description: "'Acoustic monitoring of the Scops owl and other threatened species on Príncipe Island', fundraised by [Bird Conservation Fund](https://www.birdfund.org/)."
+  organization: African Bird Club
+  organization_url: https://www.africanbirdclub.org/
+  title: ABC Expedition Award
+  url: ""
 - certificate_url: 
   date_end: ""
   date_start: "2020-09-30"
@@ -48,7 +72,7 @@ item:
   description: ""
   organization: Erasmus+
   organization_url: 
-  title: "Erasmus+ Traineeship Grant"
+  title: Erasmus+ Traineeship Grant
   url: ""
 - certificate_url: 
   date_end: ""
@@ -56,6 +80,6 @@ item:
   description: ""
   organization: National Geographic Society
   organization_url: https://www.nationalgeographic.org/funding-opportunities/grants/
-  title: 'National Geographic Early Career Grant'
+  title: National Geographic Early Career Grant
   url: ""
 ---

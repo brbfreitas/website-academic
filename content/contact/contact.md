@@ -12,7 +12,7 @@ headless: false
 # Order that this section appears on the page.
 weight: 130
 
-title: '**Let’s Connect.**'
+title: '**Let’s connect**'
 subtitle: If you have questions about my work or see an opportunity to collaborate, please reach out.
 
 content:

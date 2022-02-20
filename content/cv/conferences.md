@@ -11,12 +11,12 @@ headless: true
 # Order that this section appears on the page.
 weight: 120
 
-title: International symposia and conferences
+title: 'International symposia and conferences'
 subtitle: ''
 
 content:
   # Page type to display. E.g. post, talk, publication...
-  page_type: publication
+  page_type: blank
   # Choose how much pages you would like to display (0 = all pages)
   count: 0
   # Choose how many pages you would like to offset by
@@ -38,6 +38,7 @@ design:
   #   4 = Citation (publication only)
   view: 4
 ---
+**Freitas, B**; Thébaud, C; Milá, B. <i>Evolution of birdsong in mainland and insular populations of the Common Chaffinch (<i>Fringilla coelebs</i>)</i>. SESBE VIII Conference, 2-4 February 2022, Vigo, Spain. Poster presentation
 
 **Freitas, B**; Melo, M; Doutrelant, C; Robert, A; Bas, Y. [<i>The use of automatic recorders and automated detection to obtain vocalizations data in difficult terrains: the case of the Príncipe scops owl</i>](https://twitter.com/brbbfreitas/status/1324351272250707970). BES Conservation Ecology & Tropical Ecology Joint Twitter Conference (#TropiCon20), 5-6 November 2020. Twitter presentation
 

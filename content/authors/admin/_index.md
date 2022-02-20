@@ -6,12 +6,12 @@ title: Bárbara Freitas
 superuser: true
 
 # Role/position/tagline
-role: I am a PhD fellow working on the role of song in speciation processes of island birds at the National Museum of Natural Sciences in Madrid and at the Evolution & Biological Diversity Laboratory in Toulouse. 
+role: I am a PhD fellow working on the role of song in speciation processes of island birds at the  National Museum <br> of Natural Sciences in Madrid and at the Evolution and Biological Diversity Laboratory in Toulouse. 
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Get to know me !
-  url: http://www.freitasbarbara.com/about/
+- name: ''
+  url: ''
 
 # Short bio (displayed in user profile at end of posts)
 #bio:
@@ -41,9 +41,9 @@ social:
   icon_pack: fas
   link: mailto:barbarabfreitas6@gmail.com
 
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/bárbara-freitas-565a6713b/
+#- icon: linkedin
+  #icon_pack: fab
+  #link: https://www.linkedin.com/in/bárbara-freitas-565a6713b/
 
 - icon: orcid
   icon_pack: ai
@@ -57,17 +57,17 @@ social:
   icon_pack: ai
   link: https://scholar.google.com/citations?user=h9Op3tMAAAAJ&hl=en
 
-- icon: ciencia-vitae
-  icon_pack: ai
-  link: https://www.cienciavitae.pt//en/B11E-528F-0071
+#- icon: ciencia-vitae
+  #icon_pack: ai
+  #link: https://www.cienciavitae.pt//en/B11E-528F-0071
 
-- icon: osf
-  icon_pack: ai
-  link: https://osf.io/ntfbx/
+#- icon: osf
+  #icon_pack: ai
+  #link: https://osf.io/ntfbx/
 
-- icon: github
-  icon_pack: fab
-  link: https://github.com/brbfreitas
+#- icon: github
+  #icon_pack: fab
+  #link: https://github.com/brbfreitas
 
 - icon: twitter
   icon_pack: fab

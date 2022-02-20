@@ -10,8 +10,11 @@
 
 [[main]]
   name = "Research"
-  url = "projects/"
+  url = "research/"
+  identifier = "research"
+  hasChildren = true
   weight = 20
+
 
 [[main]]
   name = "CV"
