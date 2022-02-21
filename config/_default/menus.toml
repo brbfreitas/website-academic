@@ -11,8 +11,6 @@
 [[main]]
   name = "Research"
   url = "research/"
-  identifier = "research"
-  hasChildren = true
   weight = 20
 
 
