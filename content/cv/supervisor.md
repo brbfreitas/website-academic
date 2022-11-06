@@ -39,8 +39,13 @@ design:
   view: 1
 ---
 
+**2022**
+  <br><u>MSc student: Andrea Lirola</u>, Menendez Pelayo International University, Spain
+  <br>Thesis title: Patterns of daily activity and abundance associated with the habitat of three species of passerines on the island of La Palma, Canary Islands
+  <br>Co-supervised with Borja Milá
+
 **2021**
-  <br><u>Javier Gutiérrez</u>, Autonomous University of Madrid, Spain
+  <br><u>Internship student: Javier Gutiérrez</u>, Autonomous University of Madrid, Spain
   <br>Project title: Bioacoustic analysis of island bird songs
   <br>Co-supervised with Borja Milá
 
