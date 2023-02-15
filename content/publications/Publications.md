@@ -62,14 +62,13 @@ advanced:
 **Under review or in revision:**
 - **Freitas B**, Bas Y, Robert A, Doutrelant C, Melo M; Passive Acoustic Monitoring in difficult terrains: the case of the Principe Scops-Owl. [(<i>OSF preprint</i>)](https://osf.io/mfubj)
 
+**2023**
+- **Freitas B**, Melo M, do Bom Jesus C, da Costa SR, dos Santos Y, Crottini A, de Lima RF (2023) [The recently discovered Principe Scops-owl is highly threatened: distribution, habitat associations, and population estimates](https://doi.org/10.1017/S0959270922000429). **Bird Conservation International**, 33: e39 
+
+
 **2022**
-- **Freitas B**, Melo M, do Bom Jesus C, da Costa SR, dos Santos Y, Crottini A, de Lima RF (2022) [The recently discovered Principe Scops-owl is highly threatened: distribution, habitat associations, and population estimates](https://doi.org/10.1017/S0959270922000429). **Bird Conservation International**, 1-10 
-- Melo M, **Freitas B**, Verbelen P, da Costa SR, Pereira H, Fuchs J, Sangster G, Correia MN, de Lima RF, Crottini A (2022) [A new species of scops-owl (Aves, Strigiformes, Strigidae, <i>Otus</i>) from Príncipe Island (Gulf of Guinea, Africa) and novel insights into the systematic affinities within <i>Otus</i>](https://doi.org/10.3897/zookeys.1126.87635). **Zookeys** 1126:1-54
+- Melo M, **Freitas B**, Verbelen P, da Costa SR, Pereira H, Fuchs J, Sangster G, Correia MN, de Lima RF, Crottini A (2022) [A new species of scops-owl (Aves, Strigiformes, Strigidae, <i>Otus</i>) from Príncipe Island (Gulf of Guinea, Africa) and novel insights into the systematic affinities within <i>Otus</i>](https://doi.org/10.3897/zookeys.1126.87635). **Zookeys** 1126: 1-54
 
 
 **2021**
-- Lopes RJ, Faria PMV, Gomes D, **Freitas B**, Málinger J (2021) [The Hummingbird Collection of the Natural History and Science Museum of the University of Porto (MHNC-UP), Portugal](https://doi.org/10.3897/BDJ.9.e59913). **Biodiversity Data Journal** 9:e59913
-
-**2019**
-- **Freitas B** (2019) <i>The mystery Scops owl of Príncipe Island: combining evidence for a species description and assessment of its conservation status</i>. M.Sc. dissertation. University of Porto, Porto, Portugal. Available at https://hdl.handle.net/10216/124021.
-
+- Lopes RJ, Faria PMV, Gomes D, **Freitas B**, Málinger J (2021) [The Hummingbird Collection of the Natural History and Science Museum of the University of Porto (MHNC-UP), Portugal](https://doi.org/10.3897/BDJ.9.e59913). **Biodiversity Data Journal** 9: e59913

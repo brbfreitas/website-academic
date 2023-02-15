@@ -38,6 +38,10 @@ design:
   #   4 = Citation (publication only)
   view: 4
 ---
+**Freitas, B**. [<i>Evolution of song and its role in bird speciation: practical cases from island birds</i>](https://www.soctropecol.eu/content/teo-tropical-ecology-online). Tropical Ecology Online organized by the Society for Tropical Ecology, 13 February 2023. Invited oral [online] presentation
+
+**Freitas, B**; Gil, D; Thébaud, C; Milá, B. <i>The roles of environment and behavior in the evolution of song in the Common Chaffinch on an oceanic island</i>. 25th Spanish Congress of Ornithology, 9-13 November 2022, Menorca, Spain. Poster presentation
+
 **Freitas, B**; Thébaud, C; Milá, B. <i>Evolution of birdsong in mainland and insular populations of the Common Chaffinch (<i>Fringilla coelebs</i>)</i>. SESBE VIII Conference, 2-4 February 2022, Vigo, Spain. Poster presentation
 
 **Freitas, B**; Melo, M; Doutrelant, C; Robert, A; Bas, Y. [<i>The use of automatic recorders and automated detection to obtain vocalizations data in difficult terrains: the case of the Príncipe scops owl</i>](https://twitter.com/brbbfreitas/status/1324351272250707970). BES Conservation Ecology & Tropical Ecology Joint Twitter Conference (#TropiCon20), 5-6 November 2020. Twitter presentation
