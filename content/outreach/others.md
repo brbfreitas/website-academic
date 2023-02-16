@@ -59,4 +59,4 @@ advanced:
  css_class: ""
 
 ---
-Featured woman scientist in [<i>Izzy Newton and the S.M.A.R.T. Squad: The Law of Cavities</i>](https://www.nationalgeographic.com/animals/article/a-new-species-of-owl-has-been-discovered?s=09), a kids' book by Valerie Tripp
+Featured woman scientist in [<i>Izzy Newton and the S.M.A.R.T. Squad: The Law of Cavities</i>](https://books.disney.com/book/law-of-cavities/), a kids' book by Valerie Tripp
