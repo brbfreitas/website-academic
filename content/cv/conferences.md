@@ -38,7 +38,9 @@ design:
   #   4 = Citation (publication only)
   view: 4
 ---
-**Freitas, B**. [<i>Evolution of song and its role in bird speciation: practical cases from island birds</i>](https://www.soctropecol.eu/content/teo-tropical-ecology-online). Tropical Ecology Online organized by the Society for Tropical Ecology, 13 February 2023. Invited oral [online] presentation
+**Freitas, B**. <i>Evolución del canto y su papel en la especiación de las aves insulares</i>. VIII Jornadas de Conservación de la Biodiversidad, 4 March 2023, Salamanca, Spain. Invited oral presentation
+
+**Freitas, B**. [<i>Evolution of song and its role in bird speciation: practical cases from island birds</i>](https://www.youtube.com/watch?v=BqZWTTQlu1A). Tropical Ecology Online organized by the Society for Tropical Ecology, 13 February 2023. Invited oral [online] presentation
 
 **Freitas, B**; Gil, D; Thébaud, C; Milá, B. <i>The roles of environment and behavior in the evolution of song in the Common Chaffinch on an oceanic island</i>. 25th Spanish Congress of Ornithology, 9-13 November 2022, Menorca, Spain. Poster presentation
 

@@ -65,5 +65,5 @@ advanced:
 - Pensoft Blog: [<i>New species of owl discovered in the rainforests of Príncipe Island, Central Africa </i>](https://blog.pensoft.net/2022/11/01/new-species-of-owl-discovered-in-the-rainforests-of-principe-island-central-africa/)
 - The Washington Post: [<i>Scientists identify new species of owl with insect-like cry</i>](https://www.washingtonpost.com/science/2022/11/05/owl-discovered-west-africa/)
 - The Independent: [<i>New species of owl with unique call discovered in Central Africa</i>](https://www.independent.co.uk/independentpremium/world/owl-species-africa-principe-scops-b2214540.html)
-- Público: [<i>Martim Melo passou anos a ouvir um canto único. Agora, descreve nova espécie de mocho</i>](https://www.publico.pt/2022/11/01/azul/noticia/martim-melo-passou-anos-ouvir-canto-unico-descreve-nova-especie-mocho-2026038) 
+- Wilder: [<i>Cientistas portugueses lideram descoberta de nova espécie de mocho em São Tomé e Príncipe</i>](https://www.wilder.pt/historias/cientistas-portugueses-lideram-descoberta-de-nova-especie-de-mocho-em-sao-tome-e-principe/) 
 

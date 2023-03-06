@@ -59,6 +59,8 @@ advanced:
  css_class: ""
 
 ---
+The Conversation Weekly: [<i>Biologists discovered a new species of tiny owl on the forested island of Príncipe, and it’s already under threat – Podcast</i>](https://theconversation.com/biologists-discovered-a-new-species-of-tiny-owl-on-the-forested-island-of-principe-and-its-already-under-threat-podcast-200688)
+
 The World: [<i>Biologists describe a new owl species on Príncipe Island — and hope they can save it before it disappears</i>](https://theworld.org/stories/2022-12-15/biologists-describe-new-owl-species-pr-ncipe-island-and-hope-they-can-save-it-it)
 
 Pessoas da UP: [<i>Bárbara Freitas: a acústica do canto único do mocho</i>](https://noticias.up.pt/pessoas-da-up/barbara-freitas-a-acustica-do-canto-unico-do-mocho/)
