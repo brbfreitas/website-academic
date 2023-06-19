@@ -59,10 +59,10 @@ advanced:
  css_class: ""
 
 ---
-**Under review or in revision:**
-- **Freitas B**, Bas Y, Robert A, Doutrelant C, Melo M; Passive Acoustic Monitoring in difficult terrains: the case of the Principe Scops-Owl. [(<i>OSF preprint</i>)](https://osf.io/mfubj)
 
 **2023**
+- **Freitas B**, Bas Y, Robert A, Doutrelant C, Melo M (2023) [Passive Acoustic Monitoring in difficult terrains: the case of the Principe Scops-Owl](https://doi.org/10.1007/s10531-023-02642-7). **Biodiversity and Conservation** 
+
 - **Freitas B**, Melo M, do Bom Jesus C, da Costa SR, dos Santos Y, Crottini A, de Lima RF (2023) [The recently discovered Principe Scops-owl is highly threatened: distribution, habitat associations, and population estimates](https://doi.org/10.1017/S0959270922000429). **Bird Conservation International**, 33: e39 
 
 

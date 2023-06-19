@@ -63,6 +63,8 @@ The Conversation Weekly: [<i>Biologists discovered a new species of tiny owl on 
 
 The World: [<i>Biologists describe a new owl species on Príncipe Island — and hope they can save it before it disappears</i>](https://theworld.org/stories/2022-12-15/biologists-describe-new-owl-species-pr-ncipe-island-and-hope-they-can-save-it-it)
 
+A viagem do maçarico: [<i>A descoberta do mocho-do-príncipe | EP.96 | Com Bárbara Freitas</i>](https://open.spotify.com/episode/3A84skx29AjmW7QlSi68wD) 
+
 Pessoas da UP: [<i>Bárbara Freitas: a acústica do canto único do mocho</i>](https://noticias.up.pt/pessoas-da-up/barbara-freitas-a-acustica-do-canto-unico-do-mocho/)
 
 Wilder: [<i>A descoberta de um novo mocho “que parecia o diabo” e como finalmente se quebrou o feitiço</i>](https://www.wilder.pt/historias/entrevista-a-descoberta-de-um-mocho-que-parecia-o-diabo-e-como-finalmente-se-quebrou-o-feitico/) 
