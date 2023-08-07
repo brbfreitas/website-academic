@@ -67,6 +67,7 @@ Previously, I was working at the [Center of Evolutionary and Functional Ecology 
 {{< figure src="about-quadrado.png" class="alignright" title="" >}}
 
 My MSc project was developed at the [Research Center in Biodiversity and Genetic Resources (CIBIO-InBIO)](https://cibio.up.pt/) in Vila do Conde (Portugal), under the supervision of [Martim Melo](https://cibio.up.pt/en/people/details/martim-melo/), [Angelica Crottini](https://cibio.up.pt/en/people/details/angelica-crottini/), and [Ricardo Lima](https://sites.google.com/site/rfdelimasite/home). I developed a [thesis](https://hdl.handle.net/10216/124021) focusing on an integrative taxonomic approach for the delimitation and **description of the Principe Scops-owl (<i>Otus bikegila</i>)** discovered in Príncipe Island, Africa. The project included morphometric, bioacoustic and genetic data, obtained after 3-month field season and visits to museum collections, as well as a strong component on the ecology of the owl.
+ 
 
-In addition to my research interests, I enjoy participating in projects related to science communication such as ["Pint of Science"](https://pintofsciencept.wixsite.com/2020) and ["Letters with Science"](https://en.cartascomciencia.org/).
+In addition to my research interests, I enjoy participating in projects related to science communication such as ["Pint of Science"](https://pintofsciencept.wixsite.com/2020) and ["Letters with Science"](https://en.cartascomciencia.org/). In my free time, I enjoy spending time with friends, hiking, running, and climbing.
 
