@@ -25,7 +25,7 @@ date_format= "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes """.
 [[experience]]
-    title= '''<img style="width:150px" src="/logos/mncn_tou.png"/> <br> PhD Student'''
+    title= '''<img style="width:150px" src="/logos/mncn_tou.png"/> <br> PhD in Biology'''
     company= """- [National Museum of Natural Sciences (MNCN-CSIC)](https://www.mncn.csic.es/es)
     
 - [Laboratory of Evolution and Biological Diversity (EDB, Université Toulouse-CNRS)](https://edb.cnrs.fr/)"""
@@ -36,7 +36,7 @@ date_format= "Jan 2006"
     description= '''"Evolution of song and its role in bird speciation: an integrative study in two recent radiations on oceanic islands", supervised by Borja Milá and Christophe Thébaud'''
 
 [[experience]]
-    title= '''<img style="width:120px" src="/logos/cefelogo.gif"/> <br> Erasmus+ Researcher'''
+    title= '''<img style="width:120px" src="/logos/cefelogo.gif"/> <br> Erasmus+ Research'''
     company= "Center of Evolutionary and Functional Ecology (CEFE-CNRS)"
     company_url= 'https://www.cefe.cnrs.fr/fr/'
     location= "Montpellier, France"
@@ -45,7 +45,7 @@ date_format= "Jan 2006"
     description= '''"The use of automatic recorders to obtain vocalizations data in difficult terrains: the case of the Príncipe Scops owl", supervised by Claire Doutrelant, Martim Melo and Yves Bas.<br> "Communication characteristics of the sociable weaver (<i>Philetairus socius</i>) within the nest", supervised by Pietro D’Amelio and Claire Doutrelant'''
   
   [[experience]]
-    title= '''<img style="width:120px" src="/logos/museu_porto.png"/> <br> Intern'''
+    title= '''<img style="width:120px" src="/logos/museu_porto.png"/> <br> Internship'''
     company= 'Natural History and Science Museum of the University of Porto (MHNC-UP)'
     company_url= 'https://mhnc.up.pt/'
     location= 'Porto, Portugal'
@@ -54,7 +54,7 @@ date_format= "Jan 2006"
     description= '''"Enhancement of Ornithological Collections - Management of the MHNC-UP Hummingbird Collection", supervised by Ricardo Jorge Lopes'''
   
   [[experience]]
-    title= '''<img style="width:100px" src="/logos/cibio_png.png"/> <br> MSc Student'''
+    title= '''<img style="width:100px" src="/logos/cibio_png.png"/> <br> MSc in Biodiversity, Genetics and Evolution'''
     company= '''[Research Center in Biodiversity and Genetic Resources (CIBIO-InBIO)](https://cibio.up.pt/)
     <br>Faculty of Sciences of the University of Porto'''
     company_url= ''
@@ -64,7 +64,7 @@ date_format= "Jan 2006"
     description= '''"The mystery Scops owl of Príncipe Island: combining evidence for a species description and assessment of its conservation status", supervised by Martim Melo, Angelica Crottini and Ricardo Lima'''
   
   [[experience]]
-    title= '''<img style="width:120px" src="/logos/fcup.jpg"/> <br> BSc Student'''
+    title= '''<img style="width:120px" src="/logos/fcup.jpg"/> <br> BSc in Biology'''
     company= '''Faculty of Sciences of the University of Porto'''
     company_url= 'https://sigarra.up.pt/fcup/en/WEB_PAGE.INICIAL'
     location= 'Porto, Portugal'

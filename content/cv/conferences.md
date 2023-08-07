@@ -38,6 +38,8 @@ design:
   #   4 = Citation (publication only)
   view: 4
 ---
+**Freitas, B**; Gil, D; Thébaud, C; Milá, B. <i>The role of song in restricting gene flow among locally adapted populations of the Common Chaffinch on the island of La Palma</i>. 4th SIB Conference on Island Biology, 2-7 July 2023, Lipari, Italy. Oral presentation
+
 **Freitas, B**. <i>Evolución del canto y su papel en la especiación de las aves insulares</i>. VIII Jornadas de Conservación de la Biodiversidad, 4 March 2023, Salamanca, Spain. Invited oral presentation
 
 **Freitas, B**. [<i>Evolution of song and its role in bird speciation: practical cases from island birds</i>](https://www.youtube.com/watch?v=BqZWTTQlu1A). Tropical Ecology Online organized by the Society for Tropical Ecology, 13 February 2023. Invited oral [online] presentation
