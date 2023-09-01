@@ -28,6 +28,14 @@ date_format: Jan 2006
 item:
 - certificate_url: 
   date_end: ""
+  date_start: "2023-06-12"
+  description: ""
+  organization: The Association for the Study of Animal Behaviour (ASAB)
+  organization_url: https://www.asab.org/
+  title: Conference Attendance Grant to Behaviour 2023
+  url: ""
+- certificate_url: 
+  date_end: ""
   date_start: "2022-02-21"
   description: ""
   organization: Evidence Synthesis and Meta-Analysis in R Conference (ESMARConf)
