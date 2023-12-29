@@ -40,7 +40,7 @@ design:
 ---
 **Freitas, B**; Milá, B; Thébaud, C; Janicke, T. <i>The acoustic adaptation hypothesis across animals: a meta-analysis</i>. Behaviour 2023, 14-20 August 2023, Bielefeld, Germany. Oral presentation
 
-**Freitas, B**; Gil, D; Thébaud, C; Milá, B. <i>The role of song in restricting gene flow among locally adapted populations of the Common Chaffinch on the island of La Palma</i>. 4th Society of Island Biology Conferencen, 2-7 July 2023, Lipari, Italy. Oral presentation
+**Freitas, B**; Gil, D; Thébaud, C; Milá, B. <i>The role of song in restricting gene flow among locally adapted populations of the Common Chaffinch on the island of La Palma</i>. 4th Society of Island Biology Conference, 2-7 July 2023, Lipari, Italy. Oral presentation
 
 **Freitas, B**. <i>Evolución del canto y su papel en la especiación de las aves insulares</i>. VIII Jornadas de Conservación de la Biodiversidad, 4 March 2023, Salamanca, Spain. Invited oral presentation
 
