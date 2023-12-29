@@ -59,6 +59,9 @@ advanced:
  css_class: ""
 
 ---
+**Under review or in revision:**
+- Challéat S, Farrugia N, ..., **Freitas B**,... Zina V; Silent Cities dataset: acoustic measurements from soundscapes collected worldwide during the COVID-19 pandemic.
+
 
 **2023**
 - **Freitas B**, Bas Y, Robert A, Doutrelant C, Melo M (2023) [Passive Acoustic Monitoring in difficult terrains: the case of the Principe Scops-Owl](https://doi.org/10.1007/s10531-023-02642-7). **Biodiversity and Conservation**, 32: 3109–3132 
