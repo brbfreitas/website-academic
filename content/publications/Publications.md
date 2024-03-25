@@ -60,6 +60,7 @@ advanced:
 
 ---
 **Under review or in revision:**
+- **Freitas B**, D’Amelio PB, Milá B, Thébaud C, Janicke T; The acoustic adaptation hypothesis across terrestrial vertebrates: a meta-analysis. bioRxiv [(doi: 10.1101/2024.02.21.581368)](https://www.biorxiv.org/content/10.1101/2024.02.21.581368v1)
 - Challéat S, Farrugia N, ..., **Freitas B**,... Zina V; Silent Cities dataset: acoustic measurements from soundscapes collected worldwide during the COVID-19 pandemic.
 
 

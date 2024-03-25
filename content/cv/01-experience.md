@@ -25,10 +25,10 @@ date_format= "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes """.
 [[experience]]
-    title= '''<img style="width:150px" src="/logos/mncn_tou.png"/> <br> PhD in Biology'''
+    title= '''<img style="width:150px" src="/logos/logo_mncn_crbe.png"/> <br> PhD in Biology'''
     company= """- [National Museum of Natural Sciences (MNCN-CSIC)](https://www.mncn.csic.es/es)
     
-- [Laboratory of Evolution and Biological Diversity (EDB, Université Toulouse-CNRS)](https://edb.cnrs.fr/)"""
+- [Centre de Recherche sur la Biodiversité et l'Environnement (CRBE, Université Toulouse-CNRS)](https://edb.cnrs.fr/)"""
     company_url= ''
     location= "Madrid, Spain | Toulouse, France"
     date_start= '2021-01-01'
