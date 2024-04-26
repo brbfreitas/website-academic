@@ -28,7 +28,7 @@ date_format= "Jan 2006"
     title= '''<img style="width:150px" src="/logos/logo_mncn_crbe.png"/> <br> PhD in Biology'''
     company= """- [National Museum of Natural Sciences (MNCN-CSIC)](https://www.mncn.csic.es/es)
     
-- [Centre de Recherche sur la Biodiversité et l'Environnement (CRBE, Université Toulouse-CNRS)](https://edb.cnrs.fr/)"""
+- [Centre de Recherche sur la Biodiversité et l'Environnement (CRBE, Université Toulouse-CNRS)](https://crbe.cnrs.fr/en/)"""
     company_url= ''
     location= "Madrid, Spain | Toulouse, France"
     date_start= '2021-01-01'
