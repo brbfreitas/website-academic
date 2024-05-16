@@ -67,6 +67,6 @@ A viagem do maçarico: [<i>A descoberta do mocho-do-príncipe | EP.96 | Com Bár
 
 Pessoas da UP: [<i>Bárbara Freitas: a acústica do canto único do mocho</i>](https://noticias.up.pt/pessoas-da-up/barbara-freitas-a-acustica-do-canto-unico-do-mocho/)
 
-Wilder: [<i>A descoberta de um novo mocho “que parecia o diabo” e como finalmente se quebrou o feitiço</i>](https://www.wilder.pt/historias/entrevista-a-descoberta-de-um-mocho-que-parecia-o-diabo-e-como-finalmente-se-quebrou-o-feitico/) 
+Wilder: [<i>A descoberta de um novo mocho “que parecia o diabo” e como finalmente se quebrou o feitiço</i>](https://www.wilder.pt/?p=53770) 
 
 Fundos e Novos Mundos, Antena2: [<i>O estudo da nova espécie de mocho descoberta na Ilha do Príncipe (São Tomé e Príncipe)</i>](https://www.rtp.pt/play/p9798/e597608/fundos-e-novos-mundos)
