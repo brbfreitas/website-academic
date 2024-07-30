@@ -61,8 +61,8 @@ advanced:
 ---
 
 The presence of an undescribed owl on Príncipe Island was only confirmed in 2016, though the search for a ‘mystery owl’ had begun almost 20 years earlier.
-For my [MSc thesis](https://repositorio-aberto.up.pt/handle/10216/124021) I analysed genetic, morphologic and bioacoustic data of different scops-owl species to **confirm species status and to enable the formal description of <i>Otus bikegila</i>** [(Melo et al. 2022)](https://doi.org/10.3897/zookeys.1126.87635). I also did fieldwork to map the owl's distribution, infer habitat requirements, estimate population size, and assess the threat category for this species, informing **conservation** strategies [(Freitas et al. 2023)](https://doi.org/10.1017/S0959270922000429).
+For my [MSc thesis](https://repositorio-aberto.up.pt/handle/10216/124021) I analysed genetic, morphologic and bioacoustic data of different scops-owl species to **confirm species status and to enable the formal description of <i>Otus bikegila</i>** [(Melo et al. 2022)](https://doi.org/10.3897/zookeys.1126.87635). I also did fieldwork to map the owl's distribution, infer habitat requirements, estimate population size, and assess the threat category for this species, informing **conservation** strategies [(Freitas et al. 2023a)](https://doi.org/10.1017/S0959270922000429).
 
-Afterwards, I tested the performance of **automatic sound recorders and automated song detection** for owl monitoring in Príncipe and I also investigated more deeply the characteristics of the vocalizations of this owl [(Freitas et al. 2023)](https://link.springer.com/article/10.1007/s10531-023-02642-7). 
+Afterwards, I tested the performance of **automatic sound recorders and automated song detection** for owl monitoring in Príncipe and I also investigated more deeply the characteristics of the vocalizations of this owl [(Freitas et al. 2023b)](https://link.springer.com/article/10.1007/s10531-023-02642-7). 
 Currently, I am collaborating with Martim Melo and Fundação Príncipe to put in practice this automatic workflow for acoustic monitoring of the Scops owl and other threatened species on Príncipe Island.
 
