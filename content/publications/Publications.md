@@ -60,8 +60,8 @@ advanced:
 
 ---
 **Under review or in revision:**
-- Darras K, Rountree R, ..., **Freitas B**,... Wanger TC; Worldwide Soundscapes: a synthesis of passive acoustic monitoring across realms. bioRxiv [(doi: 10.1101/2024.04.10.588860)](https://www.biorxiv.org/content/10.1101/2024.04.10.588860v3)
-- **Freitas B**, D’Amelio PB, Milá B, Thébaud C, Janicke T; The acoustic adaptation hypothesis across terrestrial vertebrates: a meta-analysis. bioRxiv [(doi: 10.1101/2024.02.21.581368)](https://www.biorxiv.org/content/10.1101/2024.02.21.581368v1)
+- Darras K, Rountree R, ..., **Freitas B**,... Wanger TC; Worldwide Soundscapes: a synthesis of passive acoustic monitoring across realms. bioRxiv [(doi: 10.1101/2024.04.10.588860)](https://doi.org/10.1101/2024.04.10.588860)
+- **Freitas B**, D’Amelio PB, Milá B, Thébaud C, Janicke T; Meta-analysis of the acoustic adaptation hypothesis reveals no support for the effect of vegetation structure on acoustic signalling across terrestrial vertebrates. bioRxiv [(doi: 10.1101/2024.02.21.581368)](https://doi.org/10.1101/2024.02.21.581368)
 - Challéat S, Farrugia N, ..., **Freitas B**,... Zina V; 	A dataset of acoustic measurements from soundscapes collected worldwide during the COVID-19 pandemic. (accepted)
 
 
