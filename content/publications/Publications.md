@@ -66,11 +66,13 @@ advanced:
 
 
 **2024**
+- **Freitas B**, D’Amelio PB, Milá B, Thébaud C, Janicke T (2024) [Meta-analysis of the acoustic adaptation hypothesis reveals no support for the effect of vegetation structure on acoustic signalling across terrestrial vertebrates](https://onlinelibrary.wiley.com/doi/10.1111/brv.13163). **Biological Reviews**  <br> <br>
+
 - Challéat S, Farrugia N, ..., **Freitas B**,... Zina V (2024) [A dataset of acoustic measurements from soundscapes collected worldwide during the COVID-19 pandemic](https://doi.org/10.1038/s41597-024-03611-7). **Scientific Data**, 11: 928 
 
 
 **2023**
-- **Freitas B**, Bas Y, Robert A, Doutrelant C, Melo M (2023) [Passive Acoustic Monitoring in difficult terrains: the case of the Principe Scops-Owl](https://doi.org/10.1007/s10531-023-02642-7). **Biodiversity and Conservation**, 32: 3109–3132 
+- **Freitas B**, Bas Y, Robert A, Doutrelant C, Melo M (2023) [Passive Acoustic Monitoring in difficult terrains: the case of the Principe Scops-Owl](https://doi.org/10.1007/s10531-023-02642-7). **Biodiversity and Conservation**, 32: 3109–3132 <br> <br>
 
 - **Freitas B**, Melo M, do Bom Jesus C, da Costa SR, dos Santos Y, Crottini A, de Lima RF (2023) [The recently discovered Principe Scops-owl is highly threatened: distribution, habitat associations, and population estimates](https://doi.org/10.1017/S0959270922000429). **Bird Conservation International**, 33: e39 
 
