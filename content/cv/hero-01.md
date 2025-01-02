@@ -9,7 +9,7 @@ active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
 title = "**Curriculum Vitae**"
-subtitle = ""
+subtitle = "[View full CV](https://docs.google.com/document/d/13c-mPP7YyclONMcOmBAYx5tmEvmj7V76-oUJSpwMak8/edit?tab=t.0)"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.

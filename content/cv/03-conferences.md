@@ -38,6 +38,8 @@ design:
   #   4 = Citation (publication only)
   view: 4
 ---
+**Freitas, B**; Gil, D; Thébaud, C; Milá, B. <i>Does song act as a behavioural barrier to gene flow? Evidence from divergent populations of La Palma's Canary Islands Chaffinch</i>. XX ENBE Annual Meeting of the Portuguese Association for Evolutionary Biology, 19-20 December 2024, Vila do Conde, Portugal. Oral presentation
+
 **Freitas, B**; Milá, B; Thébaud, C; Janicke, T. <i>The acoustic adaptation hypothesis across animals: a meta-analysis</i>. Behaviour 2023, 14-20 August 2023, Bielefeld, Germany. Oral presentation
 
 **Freitas, B**; Gil, D; Thébaud, C; Milá, B. <i>The role of song in restricting gene flow among locally adapted populations of the Common Chaffinch on the island of La Palma</i>. 4th Society of Island Biology Conference, 2-7 July 2023, Lipari, Italy. Oral presentation
