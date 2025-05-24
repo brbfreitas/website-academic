@@ -40,7 +40,7 @@ design:
 ---
 
 **Journals**
-  <br>Reviewer for Ecography, F1000Research, The Journal of Raptor Research, and Molecular & Cellular Biomechanics
+  <br>Reviewer for Bioacoustics, Biotropica, Ecography, F1000Research, The Journal of Raptor Research, and Molecular & Cellular Biomechanics
   <br>
 
 **Grants**
