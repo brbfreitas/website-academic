@@ -28,6 +28,14 @@ date_format: Jan 2006
 item:
 - certificate_url: 
   date_end: ""
+  date_start: "2025-03-25"
+  description: ""
+  organization: Joint Institute for Individualisation in a Changing Environment (JICE)
+  organization_url: https://www.uni-muenster.de/JICE/
+  title: Travel Grant to the Individualisation Symposium 2025
+  url: ""
+- certificate_url: 
+  date_end: ""
   date_start: "2023-06-12"
   description: ""
   organization: The Association for the Study of Animal Behaviour (ASAB)
