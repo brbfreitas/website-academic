@@ -59,10 +59,10 @@ advanced:
  css_class: ""
 
 ---
-**Under review or in revision:**
-- Best P, Araya-Salas M, Ekström AG, **Freitas B**,... Marxer R; Bioacoustic fundamental frequency estimation: a cross-species dataset and deep learning baseline. 
 
 **2025**
+- Best P, Araya-Salas M, Ekström AG, **Freitas B**,... Marxer R (2025) [Bioacoustic fundamental frequency estimation: a cross-species dataset and deep learning baseline](https://www.tandfonline.com/doi/abs/10.1080/09524622.2025.2500380). **Bioacoustics**, 34(4), 419–446 <br> <br>
+
 - Darras K, Rountree R, ..., **Freitas B**,... Wanger TC (2025) [Worldwide Soundscapes: a synthesis of passive acoustic monitoring across realms](https://doi.org/10.1111/geb.70021). **Global Ecology and Biogeography**, 34: e70021 <br> <br>
 
 - **Freitas B**, D’Amelio PB, Milá B, Thébaud C, Janicke T (2025) [Meta-analysis of the acoustic adaptation hypothesis reveals no support for the effect of vegetation structure on acoustic signalling across terrestrial vertebrates](https://onlinelibrary.wiley.com/doi/10.1111/brv.13163). **Biological Reviews** 100: 815-833

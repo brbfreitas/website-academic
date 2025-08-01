@@ -25,6 +25,14 @@ date_format= "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes """.
 [[experience]]
+    title= '''<img style="width:120px" src="/logos/CRBE.jpg"/> <br> Erasmus+ Research'''
+    company= "[Centre de Recherche sur la Biodiversité et l'Environnement (CRBE, Université Toulouse-CNRS)](https://crbe.cnrs.fr/en/)"
+    location= "Toulouse, France"
+    date_start= '2025-06-23'
+    date_end= '' #2025-08-29
+    description= '''"Advanced bioacoustic analysis of complex songs in passerine birds", supervised by Christophe Thébaud'''
+  
+[[experience]]
     title= '''<img style="width:150px" src="/logos/logo_mncn_crbe.png"/> <br> PhD in Biology'''
     company= """- [National Museum of Natural Sciences (MNCN-CSIC)](https://www.mncn.csic.es/es)
     
@@ -32,7 +40,7 @@ date_format= "Jan 2006"
     company_url= ''
     location= "Madrid, Spain | Toulouse, France"
     date_start= '2021-01-01'
-    date_end= ''
+    date_end= '2025-06-18'
     description= '''"Evolution of song and its role in bird speciation: an integrative study in two recent radiations on oceanic islands", supervised by Borja Milá and Christophe Thébaud'''
 
 [[experience]]

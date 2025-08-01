@@ -28,6 +28,22 @@ date_format: Jan 2006
 item:
 - certificate_url: 
   date_end: ""
+  date_start: "2025-06-25"
+  description: "Awarded and declined"
+  organization: Fyssen Foundation
+  organization_url: https://www.fondationfyssen.fr/en/home/
+  title: Post-doctoral study grant
+  url: ""
+- certificate_url: 
+  date_end: ""
+  date_start: "2025-06-18"
+  description: ""
+  organization: Federal Commission for Scholarships for Foreign Students (FCS)
+  organization_url: https://www.uni-muenster.de/JICE/
+  title: Swiss Government Excellence Scholarship - PostDoc
+  url: ""
+- certificate_url: 
+  date_end: ""
   date_start: "2025-03-25"
   description: ""
   organization: Joint Institute for Individualisation in a Changing Environment (JICE)
