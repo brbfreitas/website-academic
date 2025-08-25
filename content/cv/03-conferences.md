@@ -38,6 +38,10 @@ design:
   #   4 = Citation (publication only)
   view: 4
 ---
+**Freitas, B**; Gil, D; Thébaud, C; Milá, B. <i>The role of song in population divergence: Insights from the La Palma’s Canary Islands Chaffinch</i>. ESEB Conference , 17-22 August 2025, Barcelona, Spain. Oral presentation
+
+**Freitas, B**; Bacquele, Q; Gabrielli, M; Theunissen, F; Mathevon, N; Milá, B; Thébaud, C. <i>Vocal divergence and incipient speciation in the Reunion Grey White-eye</i>. ESEB Conference , 17-22 August 2025, Barcelona, Spain. Poster presentation
+
 **Freitas, B**; Gil, D; Thébaud, C; Milá, B. <i>Does song act as a behavioural barrier to gene flow? Evidence from divergent populations of La Palma's Canary Islands Chaffinch</i>. XX ENBE Annual Meeting of the Portuguese Association for Evolutionary Biology, 19-20 December 2024, Vila do Conde, Portugal. Oral presentation
 
 **Freitas, B**; Milá, B; Thébaud, C; Janicke, T. <i>The acoustic adaptation hypothesis across animals: a meta-analysis</i>. Behaviour 2023, 14-20 August 2023, Bielefeld, Germany. Oral presentation
