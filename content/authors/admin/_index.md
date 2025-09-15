@@ -6,7 +6,7 @@ title: Bárbara Freitas
 superuser: true
 
 # Role/position/tagline
-role: PhD in Biology <br> Working on bioacoustics at the Center of Research in Biodiversity and the Environment in Toulouse. 
+role: PostDoc at IEE - University of Bern <br> Working on acoustic adaptation in frogs 
 
 # Organizations/Affiliations to show in About widget
 organizations:

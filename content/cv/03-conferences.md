@@ -38,6 +38,8 @@ design:
   #   4 = Citation (publication only)
   view: 4
 ---
+**Freitas, B**; Milá, B; Thébaud, C; Janicke, T. <i>The acoustic adaptation hypothesis across terrestrial vertebrates: a meta-analysis</i>. International Bioacoustics Congress, 7-12 September 2025, Kerteminde, Denmark. Invited speaker for the "Vocal frequencies: The role of environmental and organismal factors in shaping animal acoustic signals” symposium
+
 **Freitas, B**; Gil, D; Thébaud, C; Milá, B. <i>The role of song in population divergence: Insights from the La Palma’s Canary Islands Chaffinch</i>. ESEB Conference , 17-22 August 2025, Barcelona, Spain. Oral presentation
 
 **Freitas, B**; Bacquele, Q; Gabrielli, M; Theunissen, F; Mathevon, N; Milá, B; Thébaud, C. <i>Vocal divergence and incipient speciation in the Reunion Grey White-eye</i>. ESEB Conference , 17-22 August 2025, Barcelona, Spain. Poster presentation

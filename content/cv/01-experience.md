@@ -25,11 +25,19 @@ date_format= "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes """.
 [[experience]]
+    title= '''<img style="width:120px" src="/logos/UBE.png"/> <br> ESKAS Postdoctoral Fellow'''
+    company= "[Division of Behavioural Ecology, Institute of Ecology and Evolution, University of Bern](https://crbe.cnrs.fr/en/)"
+    location= "Bern, Switzerland"
+    date_start= '2025-09-15'
+    date_end= ''
+    #description= 'Host: Eva Ringler'
+
+[[experience]]
     title= '''<img style="width:120px" src="/logos/CRBE.jpg"/> <br> Erasmus+ Research'''
     company= "[Centre de Recherche sur la Biodiversité et l'Environnement (CRBE, Université Toulouse-CNRS)](https://crbe.cnrs.fr/en/)"
     location= "Toulouse, France"
     date_start= '2025-06-23'
-    date_end= '' #2025-08-29
+    date_end= '2025-08-29'
     description= '''"Advanced bioacoustic analysis of complex songs in passerine birds", supervised by Christophe Thébaud'''
   
 [[experience]]
