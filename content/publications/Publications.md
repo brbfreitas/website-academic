@@ -59,6 +59,8 @@ advanced:
  css_class: ""
 
 ---
+**Preprints and submitted manuscripts:**
+- **Freitas B**, Gil D, Thébaud C, Milá B (submitted) [Song as a behavioural pre-mating barrier in early population divergence: Insights from the Canary Islands Chaffinch](https://doi.org/10.64898/2026.03.12.711316). **bioRxiv** <br> <br>
 
 **2025**
 - Best P, Araya-Salas M, Ekström AG, **Freitas B**,... Marxer R (2025) [Bioacoustic fundamental frequency estimation: a cross-species dataset and deep learning baseline](https://www.tandfonline.com/doi/abs/10.1080/09524622.2025.2500380). **Bioacoustics**, 34(4), 419–446 <br> <br>

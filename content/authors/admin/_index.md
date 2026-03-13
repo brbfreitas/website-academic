@@ -6,7 +6,7 @@ title: Bárbara Freitas
 superuser: true
 
 # Role/position/tagline
-role: PostDoc at IEE - University of Bern <br> Working on acoustic adaptation in frogs 
+role: PostDoc at IEE - University of Bern <br> Working on calling behaviour in frogs 
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -69,9 +69,9 @@ social:
   #icon_pack: fab
   #link: https://github.com/brbfreitas
 
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/brbbfreitas
+#- icon: twitter
+  #icon_pack: fab
+  #link: https://twitter.com/brbbfreitas
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
