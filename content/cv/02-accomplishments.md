@@ -28,6 +28,31 @@ date_format: Jan 2006
 item:
 - certificate_url: 
   date_end: ""
+  date_start: "2026-05-12"
+  description: ""
+  organization: University of Bern
+  organization_url: https://www.unibe.ch/research/funding_and_prizes/unibe_funding_schemes/initiator_grants/index_eng.html
+  title: UniBE Initiator grant
+  url: ""
+- certificate_url: 
+  date_end: ""
+  date_start: "2026-03-20"
+  description: ""
+  organization: European Society for Evolutionary Biology
+  organization_url: https://eseb.org/prizes-funding/godfrey-hewitt-mobility-award/
+  title: ESEB Godfrey Hewitt Mobility Award
+  url: ""
+- certificate_url: 
+  date_end: ""
+  date_start: "2026-03-09"
+  description: ""
+  organization: University of Bern
+  organization_url: https://www.unibe.ch/research/funding_and_prizes/unibe_funding_schemes/self/index_eng.html
+  title: UniBE Seal of Excellence Funding
+  url: ""
+
+- certificate_url: 
+  date_end: ""
   date_start: "2025-06-25"
   description: "Awarded and declined"
   organization: Fyssen Foundation

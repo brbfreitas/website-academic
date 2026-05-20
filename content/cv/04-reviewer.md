@@ -9,7 +9,7 @@ active: true
 headless: true
 
 # Order that this section appears on the page.
-weight: 200
+weight: 160
 
 title: 'Review Activity'
 subtitle: ''
@@ -44,7 +44,8 @@ design:
   <br>
 
 **Grants**
-  <br>2023 - External reviewer for the National Geographic Society Level I Grants (areas of Conservation, Research, and Technology)
+  <br>2026 - External reviewer for the **National Science Center, Poland** (Panel: Environmental Biology, Ecology and Evolution (for all organisms))
+  <br>2023 - External reviewer for the **National Geographic Society** Level I Grants (areas of Conservation, Research, and Technology)
   <br>
 
 

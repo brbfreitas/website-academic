@@ -25,7 +25,7 @@ date_format= "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes """.
 [[experience]]
-    title= '''<img style="width:120px" src="/logos/UBE.png"/> <br> ESKAS Postdoctoral Fellow'''
+    title= '''<img style="width:120px" src="/logos/UBE.png"/> <br> Postdoctoral Fellow'''
     company= "[Division of Behavioural Ecology, Institute of Ecology and Evolution, University of Bern](https://crbe.cnrs.fr/en/)"
     location= "Bern, Switzerland"
     date_start= '2025-09-15'
