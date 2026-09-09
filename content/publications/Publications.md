@@ -60,7 +60,7 @@ advanced:
 
 ---
 **Preprints and submitted manuscripts:**
-- Mensah JB*, **Freitas B***,  Ringler M, Antunes DF#, Ringler E# (under review) [Why we need ecology and evolution for a better understanding of misdirected behaviour](https://doi.org/10.32942/X2M10J). **EcoRxiv** <br> <br>
+- Mensah JB*, **Freitas B** *,  Ringler M, Antunes DF#, Ringler E# (under review) [Why we need ecology and evolution for a better understanding of misdirected behaviour](https://doi.org/10.32942/X2M10J). **EcoRxiv** <br> <br>
 
 - **Freitas B**, Gil D, Thébaud C, Milá B (accepted for publication) [A field test of song as a pre-mating behavioural barrier in early population divergence of the Canary Islands Chaffinch](https://doi.org/10.64898/2026.03.12.711316). **bioRxiv** <br> <br>
 
@@ -73,8 +73,7 @@ advanced:
 
 
 **2024**
-- Challéat S, Farrugia N, ..., **Freitas B**,... Zina V (2024) [A dataset of acoustic measurements from soundscapes collected worldwide during the COVID-19 pandemic](https://doi.org/10.1038/s41597-024-03611-7). **Scientific Data**, 11: 928 
-
+- Challéat S, Farrugia N, ..., **Freitas B**,... Zina V (2024) [A dataset of acoustic measurements from soundscapes collected worldwide during the COVID-19 pandemic](https://doi.org/10.1038/s41597-024-03611-7). **Scientific Data**, 11: 928 <br> <br>
 
 **2023**
 - **Freitas B**, Bas Y, Robert A, Doutrelant C, Melo M (2023) [Passive Acoustic Monitoring in difficult terrains: the case of the Principe Scops-Owl](https://doi.org/10.1007/s10531-023-02642-7). **Biodiversity and Conservation**, 32: 3109–3132 <br> <br>
@@ -83,7 +82,7 @@ advanced:
 
 
 **2022**
-- Melo M*, **Freitas B***, Verbelen P, da Costa SR, Pereira H, Fuchs J, Sangster G, Correia MN, de Lima RF, Crottini A (2022) [A new species of scops-owl (Aves, Strigiformes, Strigidae, <i>Otus</i>) from Príncipe Island (Gulf of Guinea, Africa) and novel insights into the systematic affinities within <i>Otus</i>](https://doi.org/10.3897/zookeys.1126.87635). **Zookeys** 1126: 1-54
+- Melo M*, **Freitas B** *, Verbelen P, da Costa SR, Pereira H, Fuchs J, Sangster G, Correia MN, de Lima RF, Crottini A (2022) [A new species of scops-owl (Aves, Strigiformes, Strigidae, <i>Otus</i>) from Príncipe Island (Gulf of Guinea, Africa) and novel insights into the systematic affinities within <i>Otus</i>](https://doi.org/10.3897/zookeys.1126.87635). **Zookeys** 1126: 1-54
 
 
 **2021**
