@@ -60,7 +60,7 @@ advanced:
 
 ---
 **Preprints and submitted manuscripts:**
-- Mensah JB*, **Freitas B** *,  Ringler M, Antunes DF#, Ringler E# (under review) [Why we need ecology and evolution for a better understanding of misdirected behaviour](https://doi.org/10.32942/X2M10J). **EcoRxiv** <br> <br>
+- Mensah JB^, **Freitas B^**,  Ringler M, Antunes DF#, Ringler E# (under review) [Why we need ecology and evolution for a better understanding of misdirected behaviour](https://doi.org/10.32942/X2M10J). **EcoRxiv** <br> <br>
 
 - **Freitas B**, Gil D, Thébaud C, Milá B (accepted for publication) [A field test of song as a pre-mating behavioural barrier in early population divergence of the Canary Islands Chaffinch](https://doi.org/10.64898/2026.03.12.711316). **bioRxiv** <br> <br>
 
@@ -82,7 +82,7 @@ advanced:
 
 
 **2022**
-- Melo M*, **Freitas B** *, Verbelen P, da Costa SR, Pereira H, Fuchs J, Sangster G, Correia MN, de Lima RF, Crottini A (2022) [A new species of scops-owl (Aves, Strigiformes, Strigidae, <i>Otus</i>) from Príncipe Island (Gulf of Guinea, Africa) and novel insights into the systematic affinities within <i>Otus</i>](https://doi.org/10.3897/zookeys.1126.87635). **Zookeys** 1126: 1-54
+- Melo M^, **Freitas B^**, Verbelen P, da Costa SR, Pereira H, Fuchs J, Sangster G, Correia MN, de Lima RF, Crottini A (2022) [A new species of scops-owl (Aves, Strigiformes, Strigidae, <i>Otus</i>) from Príncipe Island (Gulf of Guinea, Africa) and novel insights into the systematic affinities within <i>Otus</i>](https://doi.org/10.3897/zookeys.1126.87635). **Zookeys** 1126: 1-54
 
 
 **2021**
