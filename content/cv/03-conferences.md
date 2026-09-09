@@ -38,7 +38,9 @@ design:
   #   4 = Citation (publication only)
   view: 4
 ---
-**Freitas, B**; Ringler, M; Ringler, E. <i>Calling behaviour responses to varying temperatures</i>. Biology26 Conference , 12-13 February 2026, Neuchâtel, Switzerland. Poster presentation
+**Freitas, B**; Ringler, M; Ringler, E. <i>Calling behaviour responses to varying temperatures</i>. ISBE Conference, 20-24 July 2026, Turin, Italy. Oral presentation
+
+**Freitas, B**; Ringler, M; Ringler, E. <i>Calling behaviour responses to varying temperatures</i>. Biology26 Conference, 12-13 February 2026, Neuchâtel, Switzerland. Poster presentation
 
 **Freitas, B**; Milá, B; Thébaud, C; Janicke, T. <i>The acoustic adaptation hypothesis across terrestrial vertebrates: a meta-analysis</i>. International Bioacoustics Congress, 7-12 September 2025, Kerteminde, Denmark. Invited speaker for the "Vocal frequencies: The role of environmental and organismal factors in shaping animal acoustic signals” symposium
 
